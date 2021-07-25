@@ -1,0 +1,21 @@
+{
+    "name": "github.neroweneed.crossbow",
+    "version": "1.0.0",
+    "displayName": "Crossbow UI",
+    "description": "UI System for Unity",
+    "unity": "2020.3",
+    "dependencies": {
+        "com.unity.inputsystem": "1.1.0-preview.3",
+        "com.unity.entities": "0.17.0-preview.41",
+        "com.unity.burst": "1.6.0-pre.2",
+        "com.unity.jobs": "0.8.0-preview.23",
+        "com.unity.nuget.mono-cecil": "0.1.6-preview.2",
+        "com.unity.addressables": "1.16.19",
+        "com.unity.mathematics": "1.2.1"
+    },
+    "author": {
+        "name": "NeroWeNeed",
+        "email": "neroweneed@gmail.com",
+        "url": "https://github.com/NeroWeNeed"
+    }
+}
